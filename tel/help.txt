@@ -1,0 +1,9 @@
+Programu typu ksiazka telefoniczna
+Autor: Jakub Wojciechowski
+Opcje:
+	1.-h - wyswietla instrukcje czyli ten dokument
+Instrukcja:
+	1.Przeczytaj menu
+	2.Wybierz opcje
+	3.Wykonaj instrukcje wyswietlone na ekranie
+P.S. Punkt trzeci mozna traktowac jako jedyny
